@@ -105,7 +105,7 @@ Matt
 
 Dan
 1. Get ultimate opsive package - Complete
-2. Setup github, make sure gitignore/LFS is working properly
+2. Setup github, make sure gitignore/LFS is working properly - Complete (Git LFS may not be needed for now)
 3. Start looking through opsive, get gud newb
 4. Focus on state and ability system
 
