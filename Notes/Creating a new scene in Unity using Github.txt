@@ -1,0 +1,9 @@
+Creating a new Unity project using github
+1. Create new repo on github using default unity gitignore
+2. Since the project isnt root directory, remove all backslashes from the gitignore folders
+3. Clone the repo
+4. Create a new project in Unity using the same location on your local machine
+5. Change settings -> Project settings - version control - visible meta files 
+6. Change settings -> Project settings - editor - asset serializeation - force text
+7. Create a folder called "Imports" which everything imported goes into
+8. Add "Boomer Shooter/Assets/Imports/*" folder to gitignore

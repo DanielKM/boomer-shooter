@@ -1,0 +1,11 @@
+Opsive Install
+1. Import ultimate character controller from my assets
+2. Double click the install button in the project hierarchy
+3. Move opsive folder to imports
+4. Change settings (tools -> opsive -> ucc -> main manager -> setup -> project)
+5. Click update buttons & update layers
+6. In new scenes -> (tools -> opsive -> ucc -> main manager -> setup -> scene)
+7. Click add managers
+8. Click Setup cameras
+9. Add UI
+10. Add Virtual Controls
