@@ -1,5 +1,6 @@
 # boomer-shooter
 Old school FPS boomer shooter set in the near future
+
 Boomer Shooter
 Plan
 1. 	Get out fun MVP quickly
@@ -13,31 +14,31 @@ Build steps for a level
 2. 	Dungeon architect randomize until decent/different from others
 3. 	Hand craft the details
  
-Features of a level
-Keyhunting
-Secret hunting
-Fun enemies
-Tons of shooting
-Surprises
-Badass music
+1. Features of a level
+2. Keyhunting
+3. Secret hunting
+4. Fun enemies
+5. Tons of shooting
+6. Surprises
+7. Badass music
 
 
 Features of the game
-Richocheting bullets
-Rayfire with big fucking guns
-Ragdoll/physics
-Sliding/cover/jumpkicking
-Shooting balancing (projectile speeds/dodging)
-Bullet time (very rare)
-Shielding -> smashes doors (ram)
-Shieldtypes – kinetic/energy/etc
-Switch to pistol fast, rest slow
- Ammo starving
-Runtime weapon upgrades
- Powerups
-Doorhandles aren’t real
-Sprint/opens up options (ramming/dodges)
-Fast reload times
+1. Richocheting bullets
+2. Rayfire with big fucking guns
+3. Ragdoll/physics
+4. Sliding/cover/jumpkicking
+5. Shooting balancing (projectile speeds/dodging)
+6. Bullet time (very rare)
+7. Shielding -> smashes doors (ram)
+8. Shieldtypes – kinetic/energy/etc
+9. Switch to pistol fast, rest slow
+10. Ammo starving
+11. Runtime weapon upgrades
+12. Powerups
+13. Doorhandles aren’t real
+14. Sprint/opens up options (ramming/dodges)
+15. Fast reload times
 
 Features of the game we don’t want
 1.  Wall running
@@ -64,16 +65,16 @@ Character
 2. 	Speed is go
  
 Enemies
-Humanoid - same as you (gun/shields/explosives/etc)
-Mechanical - big ones small ones ones the size of my head
-Alien - creatures (zerg type, bizarre foreign organic)
-Augment - cyborg (advanced humanoids/throw magic)
+1. Humanoid - same as you (gun/shields/explosives/etc)
+2. Mechanical - big ones small ones ones the size of my head
+3. Alien - creatures (zerg type, bizarre foreign organic)
+4. Augment - cyborg (advanced humanoids/throw magic)
 
 Avoid these enemies
-Nuisance enemies
+1. Nuisance enemies
 
 Art style
-Near future semi-realistic (close to AAA)
+1. Near future semi-realistic (close to AAA)
 
  People
 1. 	Matt – Tools/unity
@@ -93,17 +94,18 @@ Sequences I want
 
 
 Steps to get started
-Planning meeting
-Sunday mornings meetup
+1. Planning meeting
+2. Sunday mornings meetup
 
-Week 1
+Week 1 Tasks
 Matt
-Get ultimate opsive package
-Send dan a list of assets you want to use
-Work on weapons/projectiles/vfx
+1. Get ultimate opsive package
+2. Send dan a list of assets you want to use
+3. Work on weapons/projectiles/vfx
+
 Dan
-Get ultimate opsive package - done
-Start looking through opsive, get gud newb
-Focus on state and ability system
-Setup github, make sure gitignore/LFS is working properly
+1. Get ultimate opsive package - Complete
+2. Setup github, make sure gitignore/LFS is working properly
+3. Start looking through opsive, get gud newb
+4. Focus on state and ability system
 
