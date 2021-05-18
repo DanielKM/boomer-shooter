@@ -13,6 +13,8 @@ TagManager:
   - UI
   - 
   - 
+  - PostProcessing
+  - Not in Reflection
   - 
   - 
   - 
@@ -29,14 +31,12 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Enemy
+  - MovingPlatform
+  - VisualEffect
+  - Overlay
+  - SubCharacter
+  - Character
   m_SortingLayers:
   - name: Default
     uniqueID: 0
