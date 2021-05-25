@@ -149,7 +149,8 @@ MonoBehaviour:
   m_MaxPositionCount: 150
   m_ActiveAudioClipSet:
     m_Delay: 0
-    m_AudioClips: []
+    m_AudioClips:
+    - {fileID: 8300000, guid: 3b23ca73e33c92e489209f08c250bf84, type: 3}
   m_StickyLayers:
     serializedVersion: 2
     m_Bits: 268435403

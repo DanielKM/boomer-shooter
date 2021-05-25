@@ -29114,7 +29114,7 @@ MonoBehaviour:
   m_ImpactForceFrames: 15
   m_ImpactStateName: 
   m_ImpactStateDisableTimer: 10
-  m_SurfaceImpact: {fileID: 0}
+  m_SurfaceImpact: {fileID: 11400000, guid: f49abdd3bca87e54cb474256211b133e, type: 2}
   m_ClipSize: 50
   m_AutoReload: 3
   m_ReloadType: 0
@@ -29149,8 +29149,9 @@ MonoBehaviour:
     m_WaitForAnimationEvent: 1
     m_Duration: 0
   m_ReloadCompleteAudioClipSet:
-    m_Delay: 0
-    m_AudioClips: []
+    m_Delay: -2
+    m_AudioClips:
+    - {fileID: 8300000, guid: 2c7840cd69a940d488e857ffaeee1f73, type: 3}
   m_ReloadDetachAttachClip: 0
   m_ReloadDetachClipEvent:
     m_WaitForAnimationEvent: 1
