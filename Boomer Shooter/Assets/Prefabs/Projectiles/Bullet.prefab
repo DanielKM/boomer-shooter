@@ -142,15 +142,14 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 2415919083
   m_SurfaceImpact: {fileID: 0}
-  m_ForceMultiplier: 40
+  m_ForceMultiplier: 100
   m_CollisionMode: 1
   m_ReflectMultiplier: 1
   m_MaxCollisionCount: 5
   m_MaxPositionCount: 150
   m_ActiveAudioClipSet:
     m_Delay: 0
-    m_AudioClips:
-    - {fileID: 8300000, guid: 3b23ca73e33c92e489209f08c250bf84, type: 3}
+    m_AudioClips: []
   m_StickyLayers:
     serializedVersion: 2
     m_Bits: 268435403
